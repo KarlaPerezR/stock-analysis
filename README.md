@@ -39,7 +39,7 @@ But with the creation of the arrays in the refactor code, the values are save in
 #### What are the advantages or disadvantages of refactoring code?
 
 The principal advantage is the reduction of time, secondly it helps to order your code better and more easy to understand.
-But the main disadvantage it is to think since other perspective to solve the same task and also know what parts of the code not to touch because are part of the solution and do not need to be change.
+</BR>But the main disadvantage it is to think since other perspective to solve the same task and also know what parts of the code not to touch because are part of the solution and do not need to be change.
 
 #### How do these pros and cons apply to refactoring the original VBA script?
 
