@@ -46,6 +46,6 @@ The principal advantage is the reduction of time, secondly it helps to order you
 The advantages for this analysis was the reduction of the time.
 Refactor the code helps to reduce the time of processing the information, from ~51,000 to ~0.31 seconds.
 
-![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
