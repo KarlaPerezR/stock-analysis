@@ -18,8 +18,8 @@ After the analysis of the Daily Volume and Yearly Return of the Green Stocks, th
 
 Refactor the code helps to reduce the time of processing the information, from ~51,000 to ~0.31 seconds.
 
-![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2017.png)
-![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2018.png)
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2017.png | width=300)
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2018.png | width=300)
 <br/><br/>  The creation of the arrays to save the Value of each Ticket (Total Volume, the Starting Prices and Ending Prices) allows to free memory and have a faster result.
 
 In the first code, the values were save in Variables and then printed:
