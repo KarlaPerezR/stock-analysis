@@ -12,7 +12,7 @@ After the analysis of the Daily Volume and Yearly Return of the Green Stocks, th
 <br/><br/>The RUN ticket also had great returns for 2018 but had a low return in the 2017 with 5.5% so it has a volatile behavior. 
 <br/>And the DQ ticket, the stock that the parents of the Analyst wanted, had a great year in 2017 with a return of 199.4% but a lost of 62.6% for 2018 besides had a low Daily Volumen compare to the other stocks.
 
-<img align="ri" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2018.png">
+<img align="right" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2018.png">
 <br clear="right"/>
 
 ```
