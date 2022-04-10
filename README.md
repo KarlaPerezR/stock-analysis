@@ -17,7 +17,7 @@ After the analysis of the Daily Volume and Yearly Return of the Green Stocks, th
 
 #### Refactor the code
 
-To refactor the code helps to reduce the time of processing the information, from 51,885 to 0.3125 seconds.
+Refactor the code helps to reduce the time of processing the information, from 51,885 to 0.3125 seconds.
 <br/> The creation of the arrays to save the Value of each Ticket (Total Volume, the Starting Prices and Ending Prices) allows to free memory and have a faster result.
 
 In the first code, the values were save in Variables and then printed:
