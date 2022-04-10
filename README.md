@@ -4,6 +4,17 @@
 #### Analyze green stocks of the year 2017 and 2018 to determine if the stocks are worth or not investing. This Analysis was through VBA with the help of Loops but the objective of this exercise is to manage the refactor of the code to improve efficiency through arrays.
 
 ## Results
+
+<img align="left" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2017.png">
+
+After the analysis of the Daily Volume and Yearly Return of the Green Stocks, the conclusion and advice is to invest in the Ticker ENPH.
+<br/>ENPH was the unique Ticket that had great returns for both years, 129.5% for 2017 and 81.9% for 2018, also had a good number of Daily Volume for both years, indicating that is a Stock that many people traded every day.
+
+<br clear="left"/>
+
+The RUN ticket also had great returns for 2018 but had a low return in the 2017 with 5.5% so it has a volatile behavior. 
+<br/>And the DQ ticket, the stock that the parents of the Analyst wanted, had a great year in 2017 with a return of 199.4% but a lost of 62.6% for 2018 besides had a low Daily Volumen compare to the other stocks. (without an obnoxious number of <br /> tags).
+
 After the analysis of the Daily Volume and Yearly Return of the Green Stocks, the conclusion and advice is to invest in the Ticker ENPH.
 <br/>ENPH was the unique Ticket that had great returns for both years, 129.5% for 2017 and 81.9% for 2018, also had a good number of Daily Volume for both years, indicating that is a Stock that many people traded every day.
 <br/>The RUN ticket also had great returns for 2018 but had a low return in the 2017 with 5.5% so it has a volatile behavior. 
