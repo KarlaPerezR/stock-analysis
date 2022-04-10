@@ -7,7 +7,7 @@
 
 #### The better option for stock
 
-<img align="right" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2017&2018.png" width="300" height="550">
+<img align="right" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2017&2018.png" width="320" height="575">
 After the analysis of the Daily Volume and Yearly Return of the Green Stocks, the conclusion and advice is to invest in the Ticker ENPH.
 <br/><br/>ENPH was the unique Ticket that had great returns for both years, 129.5% for 2017 and 81.9% for 2018, also had a good number of Daily Volume for both years, indicating that is a Stock that many people traded every day.
 <br/><br/>The RUN ticket also had great returns for 2018 but had a low return in the 2017 with 5.5% so it has a volatile behavior. 
@@ -16,7 +16,10 @@ After the analysis of the Daily Volume and Yearly Return of the Green Stocks, th
 
 #### Refactor the code
 
-Refactor the code helps to reduce the time of processing the information, from 51,885 to 0.3125 seconds.
+Refactor the code helps to reduce the time of processing the information, from ~51,000 to ~0.31 seconds.
+
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2017.png)
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2018.png)
 <br/> The creation of the arrays to save the Value of each Ticket (Total Volume, the Starting Prices and Ending Prices) allows to free memory and have a faster result.
 
 In the first code, the values were save in Variables and then printed:
