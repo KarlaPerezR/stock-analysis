@@ -14,12 +14,29 @@ After the analysis of the Daily Volume and Yearly Return of the Green Stocks, th
 <img align="right" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2018.png">
 <br clear="right"/>
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+
+The refactor of the code helps to reduce a lot the time of processing the information, from 51,885 to 0.3125 seconds.
+<br/> The creation of the arrays to save the Total Volume of the Tickects, the Starting Prices and Ending Prices allows to free more memory and have a faster result.
+
+In the first code, the values was save in Varibles and then printed
 
 ```
+       Cells(4 + i, 1).Value = ticker
+       Cells(4 + i, 2).Value = totalVolume
+       Cells(4 + i, 3).Value = endingPrice / startingPrice - 1
+
+```
+But with the creation of the arrays in the refactor code, the values are save in its own space in the memory
+
+```
+    For i = 0 To 11
+        tickerVolumes(i) = 0
+        tickerStartingPrices(i) = 0
+        tickerEndingPrices(i) = 0
+    Next i
+
+```
+
 ## Summary: In a summary statement, address the following questions.
 ### What are the advantages or disadvantages of refactoring code?
 ### How do these pros and cons apply to refactoring the original VBA script?
