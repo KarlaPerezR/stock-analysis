@@ -16,10 +16,6 @@ After the analysis of the Daily Volume and Yearly Return of the Green Stocks, th
 
 #### Refactor the code
 
-Refactor the code helps to reduce the time of processing the information, from ~51,000 to ~0.31 seconds.
-
-![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2017.png)
-![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/Time_tickets2018.png)
 <br/><br/>  The creation of the arrays to save the Value of each Ticket (Total Volume, the Starting Prices and Ending Prices) allows to free memory and have a faster result.
 
 In the first code, the values were save in Variables and then printed:
@@ -40,5 +36,16 @@ But with the creation of the arrays in the refactor code, the values are save in
 ```
 
 ## Summary: In a summary statement, address the following questions.
-### What are the advantages or disadvantages of refactoring code?
-### How do these pros and cons apply to refactoring the original VBA script?
+#### What are the advantages or disadvantages of refactoring code?
+
+The principal advantage is the reduction of time, secondly it helps to order your code better and more easy to understand.
+But the main disadvantage it is to think since other perspective to solve the same task and also know what parts of the code not to touch because are part of the solution and do not need to be change.
+
+#### How do these pros and cons apply to refactoring the original VBA script?
+
+The advantages for this analysis was the reduction of the time.
+Refactor the code helps to reduce the time of processing the information, from ~51,000 to ~0.31 seconds.
+
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
