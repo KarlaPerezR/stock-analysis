@@ -5,22 +5,21 @@
 
 ## Results
 
-<img align="left" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2017.png">
+<img align="right" src="https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2017.png">
 
 After the analysis of the Daily Volume and Yearly Return of the Green Stocks, the conclusion and advice is to invest in the Ticker ENPH.
 <br/>ENPH was the unique Ticket that had great returns for both years, 129.5% for 2017 and 81.9% for 2018, also had a good number of Daily Volume for both years, indicating that is a Stock that many people traded every day.
-
-<br clear="left"/>
-
 The RUN ticket also had great returns for 2018 but had a low return in the 2017 with 5.5% so it has a volatile behavior. 
-<br/>And the DQ ticket, the stock that the parents of the Analyst wanted, had a great year in 2017 with a return of 199.4% but a lost of 62.6% for 2018 besides had a low Daily Volumen compare to the other stocks. (without an obnoxious number of <br /> tags).
+<br/>And the DQ ticket, the stock that the parents of the Analyst wanted, had a great year in 2017 with a return of 199.4% but a lost of 62.6% for 2018 besides had a low Daily Volumen compare to the other stocks.
+
+<br clear="right"/>
 
 After the analysis of the Daily Volume and Yearly Return of the Green Stocks, the conclusion and advice is to invest in the Ticker ENPH.
 <br/>ENPH was the unique Ticket that had great returns for both years, 129.5% for 2017 and 81.9% for 2018, also had a good number of Daily Volume for both years, indicating that is a Stock that many people traded every day.
 <br/>The RUN ticket also had great returns for 2018 but had a low return in the 2017 with 5.5% so it has a volatile behavior. 
 <br/>And the DQ ticket, the stock that the parents of the Analyst wanted, had a great year in 2017 with a return of 199.4% but a lost of 62.6% for 2018 besides had a low Daily Volumen compare to the other stocks.
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018,
-<br/><br/> ![2017](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2017.png)
+
 <br/><br/> ![2018](https://github.com/KarlaPerezR/stock-analysis/blob/main/Resources/2018.png)
 
 as well as the execution times of the original script and the refactored script.
